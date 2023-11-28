@@ -1,0 +1,31 @@
+body {
+    background: #F5EEC8;
+}
+h1{
+    font-family: Times New Roman;
+    color: #555843;
+}
+h2{
+    font-family: Times New Roman;
+    color: #555843;
+}
+p{
+    font-family: Times New Roman;
+    color: #555843;
+}
+ol{
+    background: #A7D397;
+    padding-bottom: 70px;
+}
+.century {
+    font-family: Times New Roman;
+    color: #555843;
+    font-size: 20px;
+}
+.city {
+    font-family: Times New Roman;
+    color: #F5EEC8;
+}
+img {
+    float: left;
+}
