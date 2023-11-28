@@ -1,0 +1,57 @@
+th {
+    text-align: center;
+    border: 1px solid black;
+    background: #003049;
+    color: #669bbc;
+}
+.vihodnoy {
+    font-weight:bold;
+    color: #c1121f
+}
+.vs {
+    color: #c1121f
+}
+div {
+    margin-bottom: 20px;
+}
+.dark_road {
+    background: #d1e1eb;
+    border: none;
+}
+img {
+    margin: 10px auto 20px;
+    display: block;
+}
+table {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+    padding: 10px;
+}
+td {
+    padding: 10px;
+}
+.prasdnik {
+    font-weight:bold;
+    color: #70e000;
+}
+h5 {
+    text-align: center;
+    padding-left: 50px;
+    padding-right:50px;
+    display: inline-table;
+}
+header {
+    background: #003049;
+    color: #669bbc;
+}
+footer {
+    background: #003049;
+    color: #669bbc;
+}
+p {
+    font-weight:bold;
+    text-align: center;
+    padding-left: 40px;
+    padding-right:40px;
+    display: inline-table;
+}
